@@ -1,0 +1,58 @@
+html {background-color: #000; color: #eee; background-image: url('img/background.png')}
+body {padding: 1em 2em 0 2em;}
+
+.home-container, .directory-container, .video-container {background-color: #000c; padding: 1em 2em 1em 2em; display: block; width: 80%; margin: 0 auto;}
+
+.videoPlaceholder {width: 90%;}
+.responsive-container {
+	position: relative;
+	width: 90%;
+	height: 0;
+	padding-bottom: 56.25%;
+	margin: 0 auto;
+}
+.youtube-video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
+	display: block;
+	margin: 0 auto;
+}
+.video-info {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.prev-next, .options-link {
+	font-size: 1.3em;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 0.25em;
+}
+
+a:link {
+	color: #eee;
+	text-decoration: underline;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	color: #f00;
+	text-decoration: none;
+}
+a:visited {
+	color: #ddd;
+	text-decoration: underline;
+}
+
+header {text-align: center; padding-bottom: 1em;}
+header img {
+	max-height: 4em;
+	transition: max-height 300ms;
+}
+header img:hover {
+	max-height: 6em;
+}

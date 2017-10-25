@@ -1,0 +1,500 @@
+{
+"directory": [
+	{
+		"title": "Episode 1",
+		"group": "In My Room",
+		"url": "https://www.youtube.com/watch?v=7FBJnhYG35w",
+		"description": "Randy shows us some neat pictures.",
+		"date": "2013-03-26",
+		"episode_id": 0
+	},
+	{
+		"title": "Episode 2",
+		"group": "In My Room",
+		"url": "https://www.youtube.com/watch?v=t5G3S10sUao",
+		"description": "Randy shows us some stuff in his basement.",
+		"date": "2013-04-20",
+		"episode_id": 1
+	},
+	{
+		"title": "Episode 3",
+		"group": "In My Room",
+		"url": "https://www.youtube.com/watch?v=avJifSAEMW8",
+		"description": "Randy shows us his wishbone collection.",
+		"date": "2013-06-28",
+		"episode_id": 2
+	},
+	{
+		"title": "Episode 4",
+		"group": "In My Room",
+		"url": "https://www.youtube.com/watch?v=0aY3UkXYasg",
+		"description": "Randy starts taking all his stuff out of the basement.",
+		"date": "2013-08-01",
+		"episode_id": 3
+	},
+	{
+		"title": "Episode 5",
+		"group": "In My Room",
+		"url": "https://www.youtube.com/watch?v=WyqrN1GHUAs",
+		"description": "Randy makes an interesting discovery in his new attic.",
+		"date": "2013-08-02",
+		"episode_id": 4
+	},
+	{
+		"title": "Episode 6",
+		"group": "In My Room",
+		"url": "https://www.youtube.com/watch?v=UUcF85VUGrQ",
+		"description": "Randy looks back on the Bunny Boy tour.",
+		"date": "2013-10-01",
+		"episode_id": 5
+	},
+	{
+		"title": "Episode 7",
+		"group": "In My Room",
+		"url": "https://www.youtube.com/watch?v=v-1k8YgG5LY",
+		"description": "Randy plays one of his songs for us.",
+		"date": "2013-10-01",
+		"episode_id": 6
+	},
+	{
+		"title": "Episode 8",
+		"group": "In My Room",
+		"url": "https://www.youtube.com/watch?v=5KwWd6glOik",
+		"description": "Randy shows us the old room used for the Bunny Boy show",
+		"date": "2013-10-01",
+		"episode_id": 7
+	},
+	{
+		"title": "Episode 9",
+		"group": "In My Room",
+		"url": "https://www.youtube.com/watch?v=ih8nNiiwpq4",
+		"description": "Randy talks about his summer.",
+		"date": "2013-10-08",
+		"episode_id": 8
+	},
+	{
+		"title": "Episode 10",
+		"group": "In My Room",
+		"url": "https://www.youtube.com/watch?v=ULyn1u7DUZU",
+		"description": "Randy talks about the Real Randy.",
+		"date": "2013-11-08",
+		"episode_id": 9
+	},
+	{
+		"title": "Episode 11",
+		"group": "In My Room",
+		"url": "https://www.youtube.com/watch?v=QqaOg5zhbKw",
+		"description": "Randy shows us some stuff in his backyard.",
+		"date": "2013-11-08",
+		"episode_id": 10
+	},
+	{
+		"title": "Episode 1",
+		"group": "Randyland",
+		"url": "https://vimeo.com/79830875",
+		"description": "Randy talks about an interesting experience that happened the other night.",
+		"date": "2013-11-19",
+		"episode_id": 11
+	},
+	{
+		"title": "Episode 2",
+		"group": "Randyland",
+		"url": "https://vimeo.com/79831662",
+		"description": "Randy talks about his new friend, Chico.",
+		"date": "2013-11-19",
+		"episode_id": 12
+	},
+	{
+		"title": "Episode 3",
+		"group": "Randyland",
+		"url": "https://vimeo.com/79845952",
+		"description": "Randy talks about sea sponges.",
+		"date": "2013-11-19",
+		"episode_id": 13
+	},
+	{
+		"title": "Episode 4",
+		"group": "Randyland",
+		"url": "https://vimeo.com/81350378",
+		"description": "Randy talks about the human condition and The Residents.",
+		"date": "2013-12-08",
+		"episode_id": 14
+	},
+	{
+		"title": "Episode 5",
+		"group": "Randyland",
+		"url": "https://vimeo.com/79844616",
+		"description": "Randy hangs out with his friend Joshua.",
+		"date": "2013-11-19",
+		"episode_id": 15
+	},
+	{
+		"title": "Episode 6",
+		"group": "Randyland",
+		"url": "https://vimeo.com/81351488",
+		"description": "Randy talks about human sexuality.",
+		"date": "2013-12-08",
+		"episode_id": 16
+	},
+	{
+		"title": "Episode 7",
+		"group": "Randyland",
+		"url": "https://vimeo.com/82412687",
+		"description": "Randy practices karate.",
+		"date": "2013-12-20",
+		"episode_id": 17
+	},
+	{
+		"title": "Episode 8",
+		"group": "Randyland",
+		"url": "https://vimeo.com/82419327",
+		"description": "Randy introduces us to Beyoncé.",
+		"date": "2013-12-20",
+		"episode_id": 18
+	},
+	{
+		"title": "Episode 9",
+		"group": "Randyland",
+		"url": "https://vimeo.com/82423856",
+		"description": "Randy is lacking a certain sheep.",
+		"date": "2013-12-20",
+		"episode_id": 19
+	},
+	{
+		"title": "Episode 10",
+		"group": "Randyland",
+		"url": "https://vimeo.com/84994041",
+		"description": "Randy vists his friend Schooner.",
+		"date": "2014-01-24",
+		"episode_id": 20
+	},
+	{
+		"title": "Episode 11",
+		"group": "Randyland",
+		"url": "https://vimeo.com/83105422",
+		"description": "Randy talks about Republicans.",
+		"date": "2013-12-31",
+		"episode_id": 21
+	},
+	{
+		"title": "Episode 12",
+		"group": "Randyland",
+		"url": "https://vimeo.com/85002189",
+		"description": "Randy talks about good people.",
+		"date": "2014-01-24",
+		"episode_id": 22
+	},
+	{
+		"title": "Episode 13",
+		"group": "Randyland",
+		"url": "https://vimeo.com/85002872",
+		"description": "Randy talks about disturbances in his room.",
+		"date": "2014-01-24",
+		"episode_id": 23
+	},
+	{
+		"title": "A Very Special Episode Teaser",
+		"group": "Randyland",
+		"url": "https://vimeo.com/88370763",
+		"description": "Randy shows us what's coming soon in an upcoming episode.",
+		"date": "2014-03-11",
+		"episode_id": 24
+	},
+	{
+		"title": "Episode 14 (A Very Special Episode)",
+		"group": "Randyland",
+		"url": "https://vimeo.com/89143925",
+		"description": "Randy meets special guests Vince and Tori.",
+		"date": "2014-03-14",
+		"episode_id": 25
+	},
+	{
+		"title": "Episode 16 (A Very Special Episode)",
+		"group": "Randyland",
+		"url": "https://vimeo.com/88396427",
+		"description": "Randy meets special guest Jim and plays his favorite Ricky Martin song.",
+		"date": "2014-03-31",
+		"episode_id": 26
+	},
+	{
+		"title": "Episode 17 (A Very Special Episode)",
+		"group": "Randyland",
+		"url": "https://vimeo.com/89160452",
+		"description": "Randy meets special guest Bucky and talks professional wrestling.",
+		"date": "2014-04-18",
+		"episode_id": 27
+	},
+	{
+		"title": "Episode 18",
+		"group": "Randyland",
+		"url": "https://vimeo.com/97778153",
+		"description": "Randy hangs out with Maurice and talks about an experience he had when he was younger.",
+		"date": "2014-06-11",
+		"episode_id": 28
+	},
+	{
+		"title": "Episode 19",
+		"group": "Randyland",
+		"url": "https://vimeo.com/97760042",
+		"description": "Randy shows us a new toybox he bought.",
+		"date": "2014-06-18",
+		"episode_id": 29
+	},
+	{
+		"title": "Episode 15 (The Lost Episode)",
+		"group": "Randyland",
+		"url": "https://vimeo.com/97758338",
+		"description": "Randy shows us the missing Episode 15.",
+		"date": "2014-06-25",
+		"episode_id": 30
+	},
+	{
+		"title": "Episode 20",
+		"group": "Randyland",
+		"url": "https://vimeo.com/97758900",
+		"description": "Randy talks about his depression.",
+		"date": "2014-07-10",
+		"episode_id": 31
+	},
+	{
+		"title": "Episode 21",
+		"group": "Randyland",
+		"url": "https://vimeo.com/101134497",
+		"description": "Randy tells us about a new high-tech plan he has.",
+		"date": "2014-07-19",
+		"episode_id": 32
+	},
+	{
+		"title": "Episode 22",
+		"group": "Randyland",
+		"url": "https://vimeo.com/101135291",
+		"description": "Randy shows us a shocking discovery he made on his spy cam.",
+		"date": "2014-07-26",
+		"episode_id": 33
+	},
+	{
+		"title": "Episode 23 (A Very Special Episode)",
+		"group": "Randyland",
+		"url": "https://vimeo.com/99200268",
+		"description": "Randy meets special guest Christina.",
+		"date": "2014-08-05",
+		"episode_id": 34
+	},
+	{
+		"title": "Episode 24",
+		"group": "Randyland",
+		"url": "https://vimeo.com/101137527",
+		"description": "Randy talks about lights.",
+		"date": "2014-08-22",
+		"episode_id": 35
+	},
+	{
+		"title": "Episode 25",
+		"group": "Randyland",
+		"url": "https://vimeo.com/104124116",
+		"description": "Randy makes a new discovery in his room.",
+		"date": "2014-09-11",
+		"episode_id": 36
+	},
+	{
+		"title": "Episode 26",
+		"group": "Randyland",
+		"url": "https://vimeo.com/107091623",
+		"description": "Randy talks to his neighbor, Mrs. Mandingo.",
+		"date": "2014-09-25",
+		"episode_id": 37
+	},
+	{
+		"title": "Episode 27",
+		"group": "Randyland",
+		"url": "https://vimeo.com/110417683",
+		"description": "Randy talks about an interesting experience that just happened.",
+		"date": "2014-10-30",
+		"episode_id": 38
+	},
+	{
+		"title": "Episode 28",
+		"group": "Randyland",
+		"url": "https://vimeo.com/110419067",
+		"description": "Randy explains how he's figured it all out.",
+		"date": "2014-10-31",
+		"episode_id": 39
+	},
+	{
+		"title": "Episode 29",
+		"group": "Randyland",
+		"url": "https://vimeo.com/110422691",
+		"description": "Randy talks about the Ghost Rapes of Bolivia.",
+		"date": "2014-11-12",
+		"episode_id": 40
+	},
+	{
+		"title": "Episode 30 (A Very Special Episode)",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=1ODbRIUO_gA",
+		"description": "Randy plays poker with special guests Andreas, Dr. Kim, and Ryan.",
+		"date": "2014-11-12",
+		"episode_id": 41
+	},
+	{
+		"title": "Episode 31",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=G8Hwut7Pu60",
+		"description": "Randy talks about Chuck's retirement from touring.",
+		"date": "2015-04-20",
+		"episode_id": 42
+	},
+	{
+		"title": "Episode 32",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=DOVwIvgmd9Q",
+		"description": "Randy talks about an important quest he is starting.",
+		"date": "2015-05-04",
+		"episode_id": 43
+	},
+	{
+		"title": "Episode 33",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=obW_JwW7RQ0",
+		"description": "Randy talks about plans for his big expedition.",
+		"date": "2015-05-18",
+		"episode_id": 44
+	},
+	{
+		"title": "Episode 34",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=LE7nx8uRRbE",
+		"description": "Randy shows us some of his possible recruits for the expedition.",
+		"date": "2015-05-27",
+		"episode_id": 45
+	},
+	{
+		"title": "Episode 35",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=nf-teb69FGs",
+		"description": "Randy prepares more for his expedition with Schooner.",
+		"date": "2015-06-10",
+		"episode_id": 46
+	},
+	{
+		"title": "Episode 36 (The Hunt Begins)",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=EXDAhZH2FmE",
+		"description": "Randy and Schooner begins their expedition.",
+		"date": "2015-11-10",
+		"episode_id": 47
+	},
+	{
+		"title": "Episode 37 (Bigfoot Beware)",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=9T5mkHqAUG0",
+		"description": "Randy and Schooner go exploring on their expedition.",
+		"date": "2015-11-24",
+		"episode_id": 48
+	},
+	{
+		"title": "Episode 38 (Bigfoot is Out There)",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=yHIRG4x5T68",
+		"description": "Randy and Schooner eat dinner on their first night of the expedition and make a big discovery.",
+		"date": "2016-01-07",
+		"episode_id": 49
+	},
+	{
+		"title": "Episode 39 (Randy's Hairy Tale)",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=_BUmiciSfHA",
+		"description": "Randy gets locked out of his apartment.",
+		"date": "2016-02-17",
+		"episode_id": 50
+	},
+	{
+		"title": "Episode 40 (Hair)",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=zrBoNEXAsIQ",
+		"description": "Randy finds some strange hair.",
+		"date": "2016-02-22",
+		"episode_id": 51
+	},
+	{
+		"title": "Episode 41",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=TWeFHJUDw1w",
+		"description": "Randy shows some product prototypes.",
+		"date": "2016-06-11",
+		"episode_id": 52
+	},
+	{
+		"title": "Episode 42",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=Mr8IuRsa4wg",
+		"description": "Randy grills some burgers.",
+		"date": "2016-08-12",
+		"episode_id": 53
+	},
+	{
+		"title": "Episode 43",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=vZW7b4urQoA",
+		"description": "Randy makes an interesting discovery on some surveillance footage.",
+		"date": "2016-08-23",
+		"episode_id": 54
+	},
+	{
+		"title": "Episode 44 (Bigfoot Revealed)",
+		"group": "Randyland",
+		"url": "https://www.youtube.com/watch?v=l4rES5F_dBg",
+		"description": "Randy's big secret is revealed.",
+		"date": "2016-09-17",
+		"episode_id": 55
+	},
+	{
+		"title": "My Neighborhood",
+		"group": "Post-Randyland",
+		"url": "https://www.youtube.com/watch?v=Zoak7ODwIIU",
+		"description": "Randy walks around his neighborhood.",
+		"date": "2016-11-10",
+		"episode_id": 56
+	},
+	{
+		"title": "NotDead!",
+		"group": "Post-Randyland",
+		"url": "https://www.youtube.com/watch?v=AmslJI3FvuM",
+		"description": "Randy is not dead.",
+		"date": "2017-03-11",
+		"episode_id": 57
+	},
+	{
+		"title": "WhatTheFuck!",
+		"group": "Post-Randyland",
+		"url": "https://www.youtube.com/watch?v=TzgMvadja9E",
+		"description": "Randy finds out The Residents are performing in Tokyo soon.",
+		"date": "2017-03-13",
+		"episode_id": 58
+	},
+	{
+		"title": "PlgueDoctors!",
+		"group": "Post-Randyland",
+		"url": "https://www.youtube.com/watch?v=DDa22brwRPA",
+		"description": "Randy talks about how The Real Residents are wearing Plague Doctor costumes.",
+		"date": "2017-03-15",
+		"episode_id": 59
+	},
+	{
+		"title": "TheBlackDeath!",
+		"group": "Post-Randyland",
+		"url": "https://www.youtube.com/watch?v=_ynktSVtvI0",
+		"description": "Randy talks about plagues.",
+		"date": "2017-03-16",
+		"episode_id": 60
+	},
+	{
+		"title": "AlbumPremier",
+		"group": "Post-Randyland",
+		"url": "https://www.youtube.com/watch?v=cxR5oVSNKsM",
+		"description": "Randy talks about the new Residents album.",
+		"date": "2017-03-18",
+		"episode_id": 61
+	}
+]
+}

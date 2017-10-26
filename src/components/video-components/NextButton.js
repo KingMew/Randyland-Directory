@@ -8,7 +8,7 @@ export default class NextButton extends Component {
 		let label = "Return to Directory";
 		if(this.props.next.title) {
 			hash = getEpisodeHash(this.props.next);
-			label = "Next Episode →"
+			label = "›"
 		}
 		return (
 			<div style={{display: "inline-block", width: "45%", textAlign: "center"}}>

@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic|Roboto');
 html {background-color: #000; color: #eee; background-image: url('img/background.png')}
-body {padding: 1em 2em 0 2em;}
+body {padding: 1em 2em 0 2em; font-family: "Roboto",sans-serif; font-size: 1.2em; line-height: 1.5;}
+h1,h2,h3,h4,h5,h6 {font-family: "Didact Gothic",sans-serif;}
 
 .home-container, .directory-container, .video-container {background-color: #000c; padding: 1em 2em 1em 2em; display: block; width: 80%; margin: 0 auto;}
 
@@ -25,11 +27,45 @@ body {padding: 1em 2em 0 2em;}
 	margin: 0 auto;
 }
 
+.prev-next {
+	display: inline;
+	font-size: 1.75em;
+	font-weight: bold;
+}
+.prev-next a {
+	text-decoration: none !important;
+	display: inline-block;
+	padding: 0.5em;
+	line-height: 1;
+	border: 2px solid #eee;
+	background-color: transparent;
+	border-radius: 0.5em;
+	transition: background-color 300ms, color 300ms;
+}
+.prev-next a:hover {
+	background-color: #eee;
+	color: #000;
+}
 .prev-next, .options-link {
-	font-size: 1.3em;
 	text-decoration: none;
 	text-align: center;
 	padding-top: 0.25em;
+}
+
+.title {
+	margin-bottom: 0; line-height: 1.25;
+}
+.series {
+	margin-top: 0;
+	margin-bottom: 0.5em;
+	line-height: 1.25;
+	font-variant: small-caps;
+	color: #aaa;
+	border-bottom: 1px solid #777;
+}
+.description {
+	margin-left: 1em;
+	margin-top: 0.25em;
 }
 
 a:link {

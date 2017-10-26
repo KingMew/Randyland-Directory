@@ -19,4 +19,4 @@ npm install
 npm run build
 ```
 
-And then you can just plop the `build/` directory files in whatever web server you'd like to deploy this to.
+And then you can just plop the `build/` directory files in whatever web server you'd like to deploy this to. The default configuration assumes you're serving this on the server root. If you're serving it in a specific directory, edit `package.json` and specify the app homepage. (The build script goes into more detail about this).

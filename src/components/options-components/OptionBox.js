@@ -6,7 +6,7 @@ export default class OptionContainer extends Component {
 		return this.props.options[this.props.value]
 	}
 	render() {
-		if(mobileCheck && this.props.value === "autoplay") {
+		if(mobileCheck() && this.props.value === "autoplay") {
 			return null;
 		}
 		return (

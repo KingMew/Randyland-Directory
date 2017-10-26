@@ -6,6 +6,9 @@ export default class CreditsContainer extends Component {
 	getStyle() {
 		return this.props.flag2 >= 3 ? {color: 'pink'} : {textDecoration: 'none', cursor: "default"};
 	}
+	componentDidMount() {
+		document.title = "Credits - The Randyland Directory";
+	}
 	render() {
 		return (
 		<div className="home-container">

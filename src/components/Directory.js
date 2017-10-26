@@ -2,6 +2,9 @@ import React, { Component } from 'react'
 import Listing from './directory-listing/Listing'
 
 export default class Directory extends Component {
+	componentDidMount() {
+		document.title = "The Randyland Directory";
+	}
 	render() {
 		return (
 		<div className="directory-container">

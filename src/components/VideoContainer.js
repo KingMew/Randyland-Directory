@@ -115,6 +115,12 @@ export default class VideoContainer extends Component {
 		}
 	}
 
+	componentDidMount() {
+		if(!this.props.transitioning) {
+			document.title = this.props.episode.group+": "+this.props.episode.title+" - The Randyland Directory";
+		}
+	}
+
 	render() {
 		const episode = this.props.episode;
 		let next = (

@@ -1,6 +1,9 @@
 import React, { Component } from 'react'
 
 export default class HomeContainer extends Component {
+	componentDidMount() {
+		document.title = "About - The Randyland Directory";
+	}
 	render() {
 		return (
 		<div className="home-container">

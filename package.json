@@ -2,14 +2,15 @@
   "name": "randyland-directory",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://www.mew151.net/rz/randyland",
   "dependencies": {
+    "disable-react-devtools": "^1.0.0",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-player": "^0.25.2",
     "react-redux": "^5.0.6",
     "react-scripts": "1.0.14",
-    "react-transition-group": "^2.2.1",
     "react-youtube": "^7.5.0",
     "redux": "^3.7.2"
   },

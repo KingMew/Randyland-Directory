@@ -3,7 +3,7 @@ html {background-color: #000; color: #eee; background-image: url('img/background
 body {padding: 1em 2em 0 2em; font-family: "Roboto",sans-serif; font-size: 1.2em; line-height: 1.5;}
 h1,h2,h3,h4,h5,h6 {font-family: "Didact Gothic",sans-serif;}
 
-.home-container, .directory-container, .video-container {background-color: #000c; padding: 1em 2em 1em 2em; display: block; width: 80%; margin: 0 auto;}
+.home-container, .directory-container, .video-container {background: transparent; padding: 1em 2em 1em 2em; display: block; width: 80%; margin: 0 auto;}
 
 .videoPlaceholder {width: 90%;}
 .responsive-container {
@@ -63,7 +63,6 @@ h1,h2,h3,h4,h5,h6 {font-family: "Didact Gothic",sans-serif;}
 	border-bottom: 1px solid #777;
 }
 .description {
-	margin-left: 1em;
 	margin-top: 0.25em;
 }
 
@@ -90,4 +89,16 @@ header img {
 }
 header img:hover {
 	max-height: 6em;
+}
+
+@media only screen and (max-width: 769px) {
+	body {padding: 0; }
+	header img:hover {
+		max-height: 4em;
+	}
+	.home-container, .directory-container, .video-container {
+		padding: 5px;
+		margin: 5px;
+		width: 95%;
+	}
 }

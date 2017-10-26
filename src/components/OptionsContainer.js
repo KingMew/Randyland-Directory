@@ -28,8 +28,8 @@ export default class OptionsContainer extends Component {
 			return (
 				<div>
 					<br /><br />
-					<OptionBox options={this.props.misc} value="gal" name="GAL MODE" toggleEvent={(value) => {this.props.dispatch(toggleSecretOption(value))}} />
-					<OptionBox options={this.props.misc} value="funny" name="FUNNY MODE" toggleEvent={(value) => {this.props.dispatch(toggleSecretOption(value))}} />
+					<OptionBox options={this.props.misc} value="gal" name="GAL_MODE" toggleEvent={(value) => {this.props.dispatch(toggleSecretOption(value))}} />
+					<OptionBox options={this.props.misc} value="funny" name="FUNNY_MODE" toggleEvent={(value) => {this.props.dispatch(toggleSecretOption(value))}} />
 				</div>
 			);
 		}

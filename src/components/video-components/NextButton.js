@@ -5,7 +5,7 @@ import getEpisodeHash from '../../EpisodeHash'
 export default class NextButton extends Component {
 	render() {
 		let hash = "#directory";
-		let label = "Return to Directory";
+		let label = "›";
 		if(this.props.next.title) {
 			hash = getEpisodeHash(this.props.next);
 			label = "›"

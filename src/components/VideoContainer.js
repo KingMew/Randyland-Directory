@@ -136,12 +136,12 @@ export default class VideoContainer extends Component {
 					<div className="prev-next">
 						{previous} {next}
 					</div>
-					<div className="options-link">
-						<a href="#options">Video Playback Options</a>
-					</div>
 					<h2 className="title">{episode.title}</h2>
 					<h3 className="series">{episode.group}</h3>
 					<p className="description">{episode.description}</p>
+					<div className="options-link">
+						<a href="#options">Video Playback Options</a>
+					</div>
 			</div>
 			</div>
 		);
